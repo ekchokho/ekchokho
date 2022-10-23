@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blogging, Website, Engineering and Technology
 - 🌱 I’m currently learning Web Developement from Passion
 - 💞️ I’m  Pursuing BTech in Civil Engineering for Profession
-- 📫 Wrte Me at admin@makautmentor.in
+- 📫 Write Me at admin@makautmentor.in
 
 <!---
 ekchokho/ekchokho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
