@@ -1,0 +1,38 @@
+[
+  {
+    "title": "SVMCM Scholarship",
+    "description": "Swami Vivekananda Merit-cum-Means Scholarship for meritorious students of West Bengal.",
+    "image_url": "https://www.edutips.in/fonts/icon/svmcm.png",
+    "apply_link": "https://www.edutips.in/scholarship/svmcm/"
+  },
+  {
+    "title": "Nabanna Scholarship",
+    "description": "Financial aid offered by West Bengal Chief Minister’s Relief Fund.",
+    "image_url": "https://www.edutips.in/fonts/icon/wbgov.png",
+    "apply_link": "https://www.edutips.in/page/nabanna-scholarship/"
+  },
+  {
+    "title": "National Scholarship Portal",
+    "description": "Central govt scholarships for SC/ST/OBC and minority students through NSP portal.",
+    "image_url": "https://www.edutips.in/fonts/icon/nta.png",
+    "apply_link": "https://www.edutips.in/page/national-scholarship/"
+  },
+  {
+    "title": "Oasis Scholarship",
+    "description": "Scholarship for SC, ST, and OBC students by West Bengal government.",
+    "image_url": "https://www.edutips.in/fonts/icon/oasis.png",
+    "apply_link": "https://www.edutips.in/scholarship/oasis/"
+  },
+  {
+    "title": "Aikyashree Scholarship",
+    "description": "Scholarship for minority students in West Bengal from WBMDFC.",
+    "image_url": "https://www.edutips.in/fonts/icon/aikyashree.png",
+    "apply_link": "https://www.edutips.in/page/aikyashree-scholarship/"
+  },
+  {
+    "title": "Buddy4Study Scholarships",
+    "description": "Curated list of private and NGO scholarships for Indian students.",
+    "image_url": "https://www.edutips.in/fonts/icon/buddy.png",
+    "apply_link": "https://www.edutips.in/buddy4study-scholarship/"
+  }
+]
