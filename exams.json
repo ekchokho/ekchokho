@@ -1,0 +1,72 @@
+[
+  {
+    "title": "WBJEE",
+    "description": "West Bengal Joint Entrance Examination for engineering and pharmacy courses.",
+    "image_url": "https://www.edutips.in/fonts/icon/wbjee.png",
+    "apply_link": "https://www.edutips.in/page/wbjee/",
+    "last_date": "2025-01-31"
+  },
+  {
+    "title": "NDA Exam",
+    "description": "National Defence Academy entrance exam for selection into armed forces.",
+    "image_url": "https://www.edutips.in/fonts/icon/defence.png",
+    "apply_link": "https://www.edutips.in/page/defence/",
+    "last_date": "2025-04-15"
+  },
+  {
+    "title": "JEE Main",
+    "description": "NTA conducted JEE Main entrance test for engineering aspirants across India.",
+    "image_url": "https://www.edutips.in/fonts/icon/jeemain.png",
+    "apply_link": "#",
+    "last_date": "2025-02-20"
+  },
+  {
+    "title": "JENPAS",
+    "description": "West Bengal JENPAS exam for nursing, paramedical and allied health courses.",
+    "image_url": "https://www.edutips.in/fonts/icon/jenpas.png",
+    "apply_link": "https://www.edutips.in/page/jenpas/",
+    "last_date": "2025-03-10"
+  },
+  {
+    "title": "ANM-GNM",
+    "description": "West Bengal ANM and GNM Nursing entrance exam for female and male students.",
+    "image_url": "https://www.edutips.in/fonts/icon/anm.png",
+    "apply_link": "https://www.edutips.in/page/anm-gnm/",
+    "last_date": "2025-04-30"
+  },
+  {
+    "title": "SMFWB",
+    "description": "Paramedical entrance exam by State Medical Faculty of West Bengal.",
+    "image_url": "https://www.edutips.in/fonts/icon/smfwb.png",
+    "apply_link": "https://www.edutips.in/page/smfwb/",
+    "last_date": "2025-05-10"
+  },
+  {
+    "title": "MAKAUT CET",
+    "description": "Common Entrance Test conducted by MAKAUT for UG & PG admissions.",
+    "image_url": "https://www.edutips.in/fonts/icon/jelet.png",
+    "apply_link": "https://www.edutips.in/page/cet/",
+    "last_date": "2025-06-05"
+  },
+  {
+    "title": "NEET UG",
+    "description": "National Eligibility Entrance Test for MBBS and BDS admissions across India.",
+    "image_url": "https://www.edutips.in/fonts/icon/neet.png",
+    "apply_link": "https://www.edutips.in/page/neet/",
+    "last_date": "2025-01-15"
+  },
+  {
+    "title": "GATE",
+    "description": "Graduate Aptitude Test in Engineering for M.Tech and PSU recruitments.",
+    "image_url": "https://www.edutips.in/fonts/icon/jeemain.png",
+    "apply_link": "#",
+    "last_date": "2025-09-20"
+  },
+  {
+    "title": "CUET",
+    "description": "Common University Entrance Test for admission into central universities.",
+    "image_url": "https://www.edutips.in/fonts/icon/ugc.png",
+    "apply_link": "#",
+    "last_date": "2025-03-01"
+  }
+]
