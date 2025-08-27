@@ -25,10 +25,26 @@
   },
   {
     "id": "pdf5",
-    "title": "HS 3rd Semester Philosophy Suggestion PDF",
-    "description": "অধ্যায় ভিত্তিক দর্শন তৃতীয় সেমিস্টার প্রশ্ন উত্তর",
+    "title": "HS 3rd Sem Philosophy Suggestion",
+    "description": "অধ্যায় ভিত্তিক দর্শন প্রশ্ন উত্তর",
     "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWOUoEbbsyihmnbWMtprbOevisvXcC5KizZi6JxDuB-NiqXtgRCsRjnKObolKQssspGUU2LCKVf1AmK4rDV4O3XaUQLniTGheUB44x5Quqx8-sUiP-aAuoS9RmPp9f1HX_QX-9LcwVxzy6AN8xaCFnM793TxVdhNYh9e6uo-yNs0Ur0TolxznvhAjWi7A/s1600/hs-sem3-philosophy.jpg",
     "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-philosophy.pdf",
+    "allow_download": true
+  },
+   {
+    "id": "pdf6",
+    "title": "HS 3rd Sem Education Suggestion",
+    "description": "অধ্যায় ভিত্তিক শিক্ষাবিজ্ঞান প্রশ্ন উত্তর",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCMoKhF3J1UGn60Sd3JjhP-2fTbDmqryIKTJoXJqZz0KJThLtHFDUn1e9hRic0vzRlet0fRPOcklF0u-uqgN7xkOY6HL6Vjq3-kwiDWLquOnZvHOgd9th6xlhyRADK0JpBEXdgXTD1J3wz-bylJ9ye4A-1Ph8MJvMzdxXaLd6NArW4jyWY_Ssgr9jNDnE/s1600/hs-3rd-semester-education.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-education.pdf",
+    "allow_download": true
+  },
+  {
+    "id": "pdf7",
+    "title": "HS 3rd Sem History Suggestion",
+    "description": "অধ্যায় ভিত্তিক ইতিহাস প্রশ্ন উত্তর",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9FnDIwIEIUPqPZDKyy3ShN3_NviQ7PTMnwxAwBd4zhu6z2BKAyHsLLipZ5XQHrQb218ooxsa6Cq-l5TL-S3DywUo-c2Ly5yqgt_QbRU2mH7LHwMsBGXFGOv5uy-7pEA6S-E2YsLc_iJG18CJw-S3O8qnOByh6NolvlyDuHuzBG_wpCWrDKfKjTrMUog/s1600/hs-3rd-semester-history.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-history.pdf",
     "allow_download": true
   },
   {
