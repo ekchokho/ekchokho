@@ -24,11 +24,35 @@
     "allow_download": true
   },
   {
+    "id": "pdf14",
+    "title": "3rd Sem Chemistry Suggestion",
+    "description": "কেমিস্ট্রি লাস্ট মিনিট সাজেশন",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0d47O98-FGmgwntwGt44w-GH56KtgyBlq6CE4F6nekxc-HFreXcKtbvWpGtSRCPHs8i0gN-6NfRsAQl3TR7vA1mpRE6QWj6wWI-jIcLBavFUazst9iDG5Nz-nsTG0KRm77RJkkRs0Q_RxQqESRaF0Yoy9Hj9cA4II2s_QG3pUNbRDypMo0nr2HPzc9RU/s1600/hs-3rd-sem-chemistry-suggestion.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-chemistry.pdf",
+    "allow_download": true
+  },
+  {
     "id": "pdf8",
     "title": "HS 3rd Sem Geography Suggestion",
     "description": "অধ্যায় ভিত্তিক ভূগোল প্রশ্ন উত্তর",
     "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipDwFWHsWJvfffqNfFwBVS5ef-KqPW-Dj3JG-JraLZgTTl45qdih2EVvUjNaagtq-YyB8qsAgxr_dTIsq2ohiSipt6O9rjcGZvACvPKbdd5Rd10fluiO1rjBJdIjCtwXe5WRO4Aai47InIWtpYycLoG8B5ignfOenrgwXkgeg_qVnAHa0_FP4Hbd4d6eg/s1600/hs-3rd-sem-geography.jpg",
     "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-geography.pdf",
+    "allow_download": true
+  },
+  {
+    "id": "pdf11",
+    "title": "3rd Sem Computer Suggestion",
+    "description": " কম্পিউটার সাইন্স + অ্যাপ্লিকেশন",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDJSJyiKbsgSGdabied3NuWzc-xi0qrser6PiSHuLKXPL4TXxmTN5dg2kzOql23BDnhyphenhyphenBSGBZ7EnCk7_TlTy3__ka28py8A-RQoH86dJ865-q_h4i9ypUkLXvYGlUR40ji1ZhLQg_7oC06ektGhXM0LsXqUIZV0CkhgEx1MJNbCvO1bHDjXwExci_4A0/s1600/hs-3rd-semester-computer-sugestion.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-computer.pdf",
+    "allow_download": true
+  },
+   {
+    "id": "pdf10",
+    "title": "HS 3rd Sem Nutrition Suggestion",
+    "description": "পুষ্টি বিজ্ঞান সাজেশন প্রশ্ন উত্তর",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEielkTnX6R8Etb_hvBeOVwAElgUJPfhU1hLzqItm7jz9kIEE-8Rxx6wOHgD7NUAyMq-j44xlpcz-AX3Exupaxr72JPhfovkGF7GRTBDUjSsgC4GaMbzzJEgmdublztNIaSfxGOledgvp6UzqKKn75YbvhxeEQDfXb5Pm7ZL2_L6WwkJD3ubOFUWFkbDjxI/s1600/hs-3rd-sem-nutrition-suggestion.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-nutrition.pdf",
     "allow_download": true
   },
   {
@@ -64,19 +88,19 @@
     "allow_download": true
   },
   {
-    "id": "pdf10",
+    "id": "pdf12",
     "title": "HS 3rd Sem Sanskrit Suggestion",
     "description": "সংস্কৃত সাজেশন প্রশ্ন উত্তর",
     "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV9s_hPw3Lz6CYBAfDcQ6k0cxAqxufa4zZ_pv6vo9sbRIGSEuU7MEqeJ4xBzY3mAbexTEpYQqhP3SpzhdWTRF2EOcCd2h9vi7lZc9MxG_6pO2crE14Jh6moYVFLqzt_hhtGDX3J7Mom-XebkbxtRBGHQWOFoeN13j13xzoxrFtReIuKs8tC_YBl2HcD6Q/s1600/hs-3rd-semester-sanskrit-suggestion.jpg",
     "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-sanskrit.pdf",
     "allow_download": true
   },
-  {
-    "id": "pdf1",
-    "title": "More Coming Soon..",
-    "description": "West Bengal HS Notes Suggestion.",
-    "cover_image": "https://play-lh.googleusercontent.com/jCwD8mA26y4_94O4rPZXeTgkZgu1taRw2OG2bqImQ9TTWdNAut5sBMmBZIt06nb_2YY",
-    "pdf_url": "https://cdn.edutips.in/storage/ebook/class11/1st-sem-english.pdf",
-    "allow_download": false
-  }
+    {
+    "id": "pdf13",
+    "title": "3rd Sem Environmental Suggestion",
+    "description": "পরিবেশ সাজেশন প্রশ্ন উত্তর",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuP3_4OdYPU8QkUWO91GkRkZBsPB1_YzxwfYNPZRcIv1SCgnc5utnh9_Q4MJlGK2gYckA2CYplg6TapMRFEU-KmjZQLe2L_d_3wwr6WCgFTnLSUYykcs7SJvWIv5-Zb_tpIPa6D8LXS4Q0YMgV0iAU_vW_yYfKxBVCpOP_8hFDH82pYUlpl2Jc3BKAs0/s1600/hs-3rd-sem-environmental-suggestion.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-environmental.pdf",
+    "allow_download": true
+  },
 ]
