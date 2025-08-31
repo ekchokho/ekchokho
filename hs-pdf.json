@@ -40,6 +40,14 @@
     "allow_download": true
   },
    {
+    "id": "pdf15",
+    "title": "3rd Sem Accountancy Suggestion",
+    "description": "অ্যাকাউন্টান্সি সাজেশন!",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGBfwNXJEYRMXPy-lV9r_FzsgrmCqpzdmdqVoF3YYQAzkDDGa_NpdkiFt4cNDm_Y8KTLSJeu1YE6yER7IV_IoZHcrdRcWRaM5wt68jfC-G4dlSbNGr_om6GuZmCRdIcqCBSlb1TSfsFdvEHAW0SanJZbrbm2ySQB-O-X3IB7HQ-eb2LdL7v5lyisajkRU/s1600/hs-3rd-sem-accountancy.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-accountancy.pdf",
+    "allow_download": true
+  },
+   {
     "id": "pdf10",
     "title": "HS 3rd Sem Nutrition Suggestion",
     "description": "পুষ্টিবিজ্ঞান সাজেশন প্রশ্ন উত্তর",
@@ -94,5 +102,13 @@
     "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuP3_4OdYPU8QkUWO91GkRkZBsPB1_YzxwfYNPZRcIv1SCgnc5utnh9_Q4MJlGK2gYckA2CYplg6TapMRFEU-KmjZQLe2L_d_3wwr6WCgFTnLSUYykcs7SJvWIv5-Zb_tpIPa6D8LXS4Q0YMgV0iAU_vW_yYfKxBVCpOP_8hFDH82pYUlpl2Jc3BKAs0/s1600/hs-3rd-sem-environmental-suggestion.jpg",
     "pdf_url": "https://cdn.edutips.in/storage/hs/sem3/edutips-hs-sem3-environmental.pdf",
     "allow_download": true
+  },
+  {
+    "id": "pdf1",
+    "title": "More Coming Soon..",
+    "description": "All The Best!",
+    "cover_image": "https://play-lh.googleusercontent.com/jCwD8mA26y4_94O4rPZXeTgkZgu1taRw2OG2bqImQ9TTWdNAut5sBMmBZIt06nb_2YY",
+    "pdf_url": "https://cdn.edutips.in/storage/ebook/class12/3rd-sem-english.pdf",
+    "allow_download": false
   }
 ]
