@@ -1,30 +1,37 @@
 [
   {
-    "title": "CULET",
-    "description": "Calcutta University B.A. LL.B Admission",
-    "image_url": "https://www.caluniv-ucsta.net/images/logo.png",
-    "apply_link": "https://www.edutips.in/culet-law-admission-application-details/",
-    "last_date": "2025-09-25"
+    "title": "LIC Golden Jubilee Scholarship 2025",
+    "description": "60% mARKS - 10th Pass, UG, PG",
+    "image_url": "https://gjss.licindia.in/GJSS/images/logo.jpeg",
+    "apply_link": "https://www.edutips.in/lic-golden-jubilee-scholarship/",
+    "last_date": "2025-10-06"
   },
   {
-    "title": "CLAT",
+    "title": "LIC HFL Vidyadhan Scholarship",
     "description": "National Common Law Admission Test after 12th",
-    "image_url": "https://suryalawacademy.co.in/best-clat-coaching.php/wp-content/uploads/2023/01/consortium_logo-1-e1673299457309.png",
-    "apply_link": "https://consortiumofnlus.ac.in/",
-    "last_date": "2025-10-31"
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/LIC_Housing_Finance_logo.png",
+    "apply_link": "https://www.edutips.in/lic-hfl-vidyadhan-scholarship/",
+    "last_date": "2025-10-15"
   },
   {
-    "title": "GATE",
-    "description": "GRADUATE APTITUDE TEST IN ENGINEERING 2026",
-    "image_url": "https://gate2026.iitg.ac.in/assets/img/logos/gate-logo.png",
-    "apply_link": "https://gate2026.iitg.ac.in/",
-    "last_date": "2025-09-28"
+    "title": "Kotak Kanya Scholarship 2025-26",
+    "description": "12th Pass Girl Students UG Courses",
+    "image_url": "https://www.kotakeducationfoundation.org/_next/static/media/KEFLogo.4c8a883f.svg",
+    "apply_link": "https://www.edutips.in/kotak-kanya-scholarship/",
+    "last_date": "2025-09-30"
   },
   {
-    "title": "CAT",
-    "description": "Common Admission Test 2025 (CAT 2025)",
+    "title": "HDFC Bank Parivartan Scholarship 2025-26",
+    "description": "Class 1-12, UG, PG Students 60% Marks",
     "image_url": "https://www.clipartmax.com/png/middle/308-3081779_mba-icon-master-of-business-administration.png",
-    "apply_link": "https://iimcat.ac.in/",
-    "last_date": "2025-09-20"
+    "apply_link": "https://www.edutips.in/hdfc-bank-scholarship/",
+    "last_date": "2025-10-30"
+  },
+  {
+    "title": "Sitaram Jindal Scholarship",
+    "description": "10th Pass, 12th Pass, UG PG 75% Marks",
+    "image_url": "http://157.119.42.223:8011/Assets/Images/Logo/SJF-removebg-preview.png",
+    "apply_link": "https://www.edutips.in/sitaram-jindal-scholarship/",
+    "last_date": "2025-10-30"
   }
 ]
