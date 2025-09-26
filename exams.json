@@ -1,12 +1,5 @@
 [
   {
-    "title": "CULET",
-    "description": "Calcutta University B.A. LL.B Admission",
-    "image_url": "https://www.caluniv-ucsta.net/images/logo.png",
-    "apply_link": "https://www.edutips.in/culet-law-admission-application-details/",
-    "last_date": "2025-09-25"
-  },
-  {
     "title": "CLAT",
     "description": "National Common Law Admission Test after 12th",
     "image_url": "https://suryalawacademy.co.in/best-clat-coaching.php/wp-content/uploads/2023/01/consortium_logo-1-e1673299457309.png",
@@ -19,12 +12,5 @@
     "image_url": "https://gate2026.iitg.ac.in/assets/img/logos/gate-logo.png",
     "apply_link": "https://gate2026.iitg.ac.in/",
     "last_date": "2025-09-28"
-  },
-  {
-    "title": "CAT",
-    "description": "Common Admission Test 2025 (CAT 2025)",
-    "image_url": "https://www.clipartmax.com/png/middle/308-3081779_mba-icon-master-of-business-administration.png",
-    "apply_link": "https://iimcat.ac.in/",
-    "last_date": "2025-09-20"
   }
 ]
