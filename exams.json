@@ -14,11 +14,18 @@
     "last_date": "2025-11-20"
   },
   {
-    "title": "CLAT",
-    "description": "National Common Law Admission Test after 12th",
-    "image_url": "https://suryalawacademy.co.in/best-clat-coaching.php/wp-content/uploads/2023/01/consortium_logo-1-e1673299457309.png",
-    "apply_link": "https://consortiumofnlus.ac.in/clat-2026/",
-    "last_date": "2025-11-07"
+    "title": "AFCAT Air Force 2026",
+    "description": "Indian Air Force Exam: Flying, Ground Duty, Tech",
+    "image_url": "https://indianairforce.nic.in/admin/assets/images/outerimages/logo.png",
+    "apply_link": "https://www.edutips.in/afcat-2026-eligibility-form-fill-up/",
+    "last_date": "2025-12-14"
+  },
+  {
+    "title": "WBCS 2024",
+    "description": "West Bengal Civil Service Group A, B, C, D",
+    "image_url": "https://cdn.testbook.com/resources/productionimages/WBPSC@100x_All_1604667791.png",
+    "apply_link": "https://www.edutips.in/wbcs-recruitment-details/",
+    "last_date": "2025-12-09"
   },
   {
     "title": "WBSSC Group C & D",
@@ -26,5 +33,12 @@
     "image_url": "https://www.westbengalssc.com/otr/images/wbssc_logo_new.jpg",
     "apply_link": "https://www.edutips.in/wbssc-group-c-d-recruitment-2025/",
     "last_date": "2025-12-03"
+  },
+  {
+    "title": "RRB JE 2025",
+    "description": "Rail Junior Engineer Recruitment",
+    "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
+    "apply_link": "https://www.edutips.in/rrb-junior-engineer-recruitment/",
+    "last_date": "2025-11-30"
   }
 ]
