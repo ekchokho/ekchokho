@@ -11,7 +11,14 @@
     "description": "Rail Non Tech Jobs: 12th Pass UG & Graduate Level",
     "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
     "apply_link": "https://www.edutips.in/rrb-ntpc-recruitment/",
-    "last_date": "2025-11-20"
+    "last_date": "2025-11-27"
+  },
+  {
+    "title": "RRB JE 2025",
+    "description": "Rail Junior Engineer Recruitment",
+    "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
+    "apply_link": "https://www.edutips.in/rrb-junior-engineer-recruitment/",
+    "last_date": "2025-11-30"
   },
   {
     "title": "AFCAT Air Force 2026",
@@ -34,11 +41,18 @@
     "apply_link": "https://www.edutips.in/wbssc-group-c-d-recruitment-2025/",
     "last_date": "2025-12-03"
   },
+   {
+    "title": "KVS NVS 2025",
+    "description": "Teaching and Non-Teaching Posts in Kendriya Vidyalaya and Navodaya.",
+    "image_url": "https://media.9curry.com/uploads/organization/image/1775/thumb_kvs-logo.png",
+    "apply_link": "https://www.edutips.in/kvs-nvs-recruitment/",
+    "last_date": "2025-12-04"
+  },
   {
-    "title": "RRB JE 2025",
-    "description": "Rail Junior Engineer Recruitment",
-    "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
-    "apply_link": "https://www.edutips.in/rrb-junior-engineer-recruitment/",
-    "last_date": "2025-11-30"
+    "title": "WB Primary Teacher",
+    "description": "WBBPE Primary Teacher Recruitment",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdapFZ4M68-jMLIqhpU9hY5OPkSx_OrwU4Lw&s",
+    "apply_link": "https://www.edutips.in/wb-primary-teacher-recruitment/",
+    "last_date": "2025-12-19"
   }
 ]
