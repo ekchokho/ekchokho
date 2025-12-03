@@ -1,32 +1,36 @@
 [
   {
     "title": "SVMCM Scholarship",
-    "description": "Swami Vivekananda Merit-cum-Means Scholarship for meritorious students of West Bengal.",
+    "description": "Swami Vivekananda Scholarship: 10th, HS, UG, PG 60%",
     "image_url": "https://www.edutips.in/fonts/icon/svmcm.png",
     "apply_link": "https://www.edutips.in/scholarship/svmcm/"
+    "last_date": "2026-02-31"
   },
   {
     "title": "Nabanna Scholarship",
     "description": "Financial aid offered by West Bengal Chief Minister’s Relief Fund.",
     "image_url": "https://www.edutips.in/fonts/icon/wbgov.png",
-    "apply_link": "https://www.edutips.in/page/nabanna-scholarship/"
-  },
-  {
-    "title": "National Scholarship Portal",
-    "description": "Central govt scholarships for SC/ST/OBC and minority students through NSP portal.",
-    "image_url": "https://www.edutips.in/fonts/icon/nta.png",
-    "apply_link": "https://www.edutips.in/page/national-scholarship/"
+    "apply_link": "https://www.edutips.in/page/nabanna-scholarship/",
+    "last_date": "2025-12-31"
   },
   {
     "title": "Oasis Scholarship",
     "description": "Scholarship for SC, ST, and OBC students by West Bengal government.",
     "image_url": "https://www.edutips.in/fonts/icon/oasis.png",
-    "apply_link": "https://www.edutips.in/scholarship/oasis/"
+    "apply_link": "https://www.edutips.in/scholarship/oasis/",
+    "last_date": "2025-12-31"
   },
   {
     "title": "Aikyashree Scholarship",
     "description": "Scholarship for minority students in West Bengal from WBMDFC.",
     "image_url": "https://www.edutips.in/fonts/icon/aikyashree.png",
-    "apply_link": "https://www.edutips.in/page/aikyashree-scholarship/"
+    "apply_link": "https://www.edutips.in/page/aikyashree-scholarship/",
+   "last_date": "2025-12-31"
+  }.
+  {
+    "title": "National Scholarship Portal",
+    "description": "Central govt scholarships for SC/ST/OBC and minority students through NSP portal.",
+    "image_url": "https://www.edutips.in/fonts/icon/nta.png",
+    "apply_link": "https://www.edutips.in/page/national-scholarship/"
   }
 ]
