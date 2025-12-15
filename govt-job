@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Govt Job",
+    "image_url": "https://www.edutips.in/fonts/icon/gov.png",
+    "apply_link": "https://www.edutips.in/career/sarkari/"
+  },
+  {
+    "title": "UPSC",
+    "image_url": "https://www.edutips.in/fonts/icon/upsc.png",
+    "apply_link": "https://www.edutips.in/page/upsc/"
+  },
+  {
+    "title": "WBPSC",
+    "image_url": "https://www.edutips.in/fonts/icon/wbpsc.png",
+    "apply_link": "https://www.edutips.in/page/wbpsc/"
+  },
+  {
+    "title": "SSC",
+    "image_url": "https://www.edutips.in/fonts/icon/ssc.png",
+    "apply_link": "https://www.edutips.in/page/ssc/"
+  },
+  {
+    "title": "Defence",
+    "image_url": "https://www.edutips.in/fonts/icon/defence.png",
+    "apply_link": "https://www.edutips.in/page/defence/"
+  },
+  {
+    "title": "Police",
+    "image_url": "https://www.edutips.in/fonts/icon/wbp.png",
+    "apply_link": "https://www.edutips.in/page/police/"
+  },
+  {
+    "title": "Railway",
+    "image_url": "https://www.edutips.in/fonts/icon/rail.png",
+    "apply_link": "https://www.edutips.in/page/railway/"
+  },
+  {
+    "title": "Banking",
+    "image_url": "https://www.edutips.in/fonts/icon/rbi.png",
+    "apply_link": "https://www.edutips.in/page/banking/"
+  },
+  {
+    "title": "Post Office",
+    "image_url": "https://www.edutips.in/fonts/icon/post.png",
+    "apply_link": "https://www.edutips.in/page/postoffice/"
+  },
+  {
+    "title": "Teaching",
+    "image_url": "https://www.edutips.in/fonts/icon/ptet.png",
+    "apply_link": "https://www.edutips.in/page/teaching/"
+  },
+  {
+    "title": "Panchayat",
+    "image_url": "https://www.edutips.in/fonts/icon/wbgov.png",
+    "apply_link": "https://www.edutips.in/page/panchayat/"
+  },
+  {
+    "title": "Municipality",
+    "image_url": "https://www.edutips.in/fonts/icon/puro.png",
+    "apply_link": "https://www.edutips.in/page/municipality/"
+  }
+]
