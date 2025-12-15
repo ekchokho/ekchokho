@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Polytechnic",
+    "image_url": "https://www.edutips.in/fonts/icon/wbtc.png",
+    "apply_link": "https://www.edutips.in/page/polytechnic/"
+  },
+  {
+    "title": "Nursing",
+    "image_url": "https://www.edutips.in/fonts/icon/nursing.png",
+    "apply_link": "https://www.edutips.in/page/nursing/"
+  },
+  {
+    "title": "Paramedical",
+    "image_url": "https://www.edutips.in/fonts/icon/paramedical.png",
+    "apply_link": "https://www.edutips.in/page/paramedical/"
+  },
+  {
+    "title": "Medical",
+    "image_url": "https://www.edutips.in/fonts/icon/doctor.png",
+    "apply_link": "https://www.edutips.in/page/medical/"
+  },
+  {
+    "title": "Engineering",
+    "image_url": "https://www.edutips.in/fonts/icon/engineer.png",
+    "apply_link": "https://www.edutips.in/page/engineering/"
+  },
+  {
+    "title": "Pharmacy",
+    "image_url": "https://www.edutips.in/fonts/icon/pharma.png",
+    "apply_link": "https://www.edutips.in/page/pharmacy/"
+  },
+  {
+    "title": "Law",
+    "image_url": "https://www.edutips.in/fonts/icon/lawyer.png",
+    "apply_link": "https://www.edutips.in/page/law/"
+  },
+  {
+    "title": "Management",
+    "image_url": "https://www.edutips.in/fonts/icon/manager.png",
+    "apply_link": "https://www.edutips.in/page/management/"
+  },
+  {
+    "title": "BCA",
+    "image_url": "https://www.edutips.in/fonts/icon/editor.png",
+    "apply_link": "https://www.edutips.in/bca-computer-application-course-details/"
+  },
+  {
+    "title": "Commerce",
+    "image_url": "https://www.edutips.in/fonts/icon/business.png",
+    "apply_link": "https://www.edutips.in/page/commerce/"
+  },
+  {
+    "title": "Science",
+    "image_url": "https://www.edutips.in/fonts/icon/bsc.png",
+    "apply_link": "https://www.edutips.in/page/science/"
+  },
+  {
+    "title": "Arts",
+    "image_url": "https://www.edutips.in/fonts/icon/arts.png",
+    "apply_link": "https://www.edutips.in/page/arts/"
+  }
+]
