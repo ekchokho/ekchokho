@@ -1,0 +1,42 @@
+[
+  {
+    "title": "WBJEE",
+    "image_url": "/fonts/icon/wbjee.png",
+    "apply_link": "https://www.edutips.in/page/wbjee/"
+  },
+  {
+    "title": "NDA Exam",
+    "image_url": "/fonts/icon/defence.png",
+    "apply_link": "https://www.edutips.in/page/nda/"
+  },
+  {
+    "title": "IIT JEE",
+    "image_url": "/fonts/icon/nta.png",
+    "apply_link": "https://www.edutips.in/page/iit-jee/"
+  },
+  {
+    "title": "JENPAS",
+    "image_url": "/fonts/icon/jenpas.png",
+    "apply_link": "page/jenpas/"
+  },
+  {
+    "title": "ANM-GNM",
+    "image_url": "/fonts/icon/anm.png",
+    "apply_link": "https://www.edutips.in/page/anm-gnm/"
+  },
+  {
+    "title": "SMFWB",
+    "image_url": "/fonts/icon/smfwb.png",
+    "apply_link": "https://www.edutips.in/page/smfwb/"
+  },
+  {
+    "title": "MAKAUT CET",
+    "image_url": "/fonts/icon/jelet.png",
+    "apply_link": "https://www.edutips.in/page/cet/"
+  },
+  {
+    "title": "NEET UG",
+    "image_url": "/fonts/icon/neet.png",
+    "apply_link": "https://www.edutips.in/page/neet/"
+  }
+]
