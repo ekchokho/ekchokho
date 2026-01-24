@@ -1,10 +1,18 @@
 [
   {
     "id": "pdf2",
-    "title": "HS 4th Semester Bengali Suggestion PDF",
-    "description": "বাংলা সাজেশন, ভাষা ও সাহিত্য ইতিহাস সহ!",
-    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cn5qdLEjrfaOPmURPRzbw_znqPf7p0qKsg&s",
-    "pdf_url": "https://wbchse.wb.gov.in/wp-content/uploads/2025/10/L-PR-560-2025.pdf",
+    "title": "HS 4th Semester Bengali Model Question",
+    "description": "বাংলা মডেল প্রশ্ন সংকলন ",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaxV87liTVP92S8ySYhV3mqq7pm_pspCLOYPNEsQIqtE1xEVOgeytk9S3mDYvil_6iWYoxV1pIfhphrBMw44sUwrkgbYpmtxF346Dw4lT3V1JT8ptuzjqDqcLvPUnCobfFfV5J5Zw3Tsg54_spXAijpNG-FaoHOzJ6RCk1diqfzbgLc5nI6Xb4TUyw1ss/s1600/hs-4th-semester-bengali-model-question.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/model-question/sem4/bengali.pdf",
+    "allow_download": true
+  },
+  {
+    "id": "pdf2",
+    "title": "HS 4th Semester English Model Question",
+    "description": "WBCHSE Question Bank & Set",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsrnw4yKKk8oNKGYHX81ww-tzmPsGJrWDcGbwVk7yi9ZigwxX52G_bI-swdB81hatVsCB8zq7yxz_j8MrGjRkSoy2glsjJ1Q0K9832X_rmwQp_ZzSEfqepPG156VTyb-uokO9HnhoEu43lyFPMQYDb1epjVfAveOOiqG6b9h5QIN-MsdIr4VlPLHWyzU/s1600/hs-4th-semester-english-model-question.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/model-question/sem4/english.pdf",
     "allow_download": true
   },
   {
