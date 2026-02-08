@@ -1,11 +1,11 @@
 [
   {
     "id": "pdf0",
-    "title": "Question Booklet",
+    "title": "HS 4th  Semester Question Booklet",
     "description": "HS 4th Sem Sample Answer Sheet",
     "cover_image": "https://blogger.googleusercontent.com/img/a/AVvXsEhabLNGMVX69h7ImxH7fpPvKc0-6LNmVftbrNlG7zDKSnZE16Ks9O6XAz8mqal8hMhLU1s10C4AUx0DePa6PEwFh6nc3fdPP0cMZLpOd85kh4ZgnAM1EFgxeCgGeKWMlEJwCF9aTAsAJ83SV7rTObNSHVn5DsgjBY2iT_10POkuTQ0o0X4_jDYVRwoODeU",
     "pdf_url": "https://cdn.edutips.in/storage/hs/sem4/edutips-hs-sem4-khata.pdf",
-    "allow_download": false
+    "allow_download": true
   },
   {
     "id": "pdf2",
