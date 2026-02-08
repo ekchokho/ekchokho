@@ -1,26 +1,26 @@
 [
   {
+    "id": "pdf0",
+    "title": "Question Booklet",
+    "description": "HS 4th Sem Sample Answer Sheet",
+    "cover_image": "https://blogger.googleusercontent.com/img/a/AVvXsEhabLNGMVX69h7ImxH7fpPvKc0-6LNmVftbrNlG7zDKSnZE16Ks9O6XAz8mqal8hMhLU1s10C4AUx0DePa6PEwFh6nc3fdPP0cMZLpOd85kh4ZgnAM1EFgxeCgGeKWMlEJwCF9aTAsAJ83SV7rTObNSHVn5DsgjBY2iT_10POkuTQ0o0X4_jDYVRwoODeU",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem4/edutips-hs-sem4-khata.pdf",
+    "allow_download": false
+  },
+  {
     "id": "pdf2",
-    "title": "Bengali Model Question",
-    "description": "বাংলা মডেল প্রশ্ন সংকলন ",
-    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaxV87liTVP92S8ySYhV3mqq7pm_pspCLOYPNEsQIqtE1xEVOgeytk9S3mDYvil_6iWYoxV1pIfhphrBMw44sUwrkgbYpmtxF346Dw4lT3V1JT8ptuzjqDqcLvPUnCobfFfV5J5Zw3Tsg54_spXAijpNG-FaoHOzJ6RCk1diqfzbgLc5nI6Xb4TUyw1ss/s1600/hs-4th-semester-bengali-model-question.jpg",
-    "pdf_url": "https://cdn.edutips.in/storage/hs/model-question/sem4/bengali.pdf",
+    "title": "বাংলা সাজেশন",
+    "description": "গল্প, কবিতা, নাটক ও প্রবন্ধ রচনা",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIkEPP0mGybi5LXEDYhDYaPDuMWt4Ay7-2nHhwug0yrUThUZnwLnxCFUtrPxdzKvOLtBTibFj29GFfzTN4jZ_QCDH4rz4M-IWaamdt8Y8J7NhscxNqpr7_QO8a583LeTzAg74aU3elT1dp53I2CJGaHUY5DKbZsGHjX-gycNB6B9gdibg48Un6KOe7Lqs/s1600/hs-4th-semester-bengali-suggestion-768x432.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem4/edutips-sem4-bengali.pdf",
     "allow_download": true
   },
   {
     "id": "pdf3",
-    "title": "English Model Question",
-    "description": "WBCHSE Question Bank & Set",
-    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsrnw4yKKk8oNKGYHX81ww-tzmPsGJrWDcGbwVk7yi9ZigwxX52G_bI-swdB81hatVsCB8zq7yxz_j8MrGjRkSoy2glsjJ1Q0K9832X_rmwQp_ZzSEfqepPG156VTyb-uokO9HnhoEu43lyFPMQYDb1epjVfAveOOiqG6b9h5QIN-MsdIr4VlPLHWyzU/s1600/hs-4th-semester-english-model-question.jpg",
-    "pdf_url": "https://cdn.edutips.in/storage/hs/model-question/sem4/english.pdf",
-    "allow_download": true
-  },
-  {
-    "id": "pdf4",
-    "title": "History Model Question",
-    "description": "ইতিহাস মডেল প্রশ্ন সংকলন",
-    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOh5IwATlF4Xig9dIV9n1RLi0qRWr96gRkYJ8cn3jRurfGNP29C5Wr5GZP5DS0IYeTKvhb_j_Khfki2KpVk4j20yG_-P8gBW2Nm2T1_uau6Z_Vu9HnR3oOv2fSVZ7Xd_-CEu-3NTgzkjuIu42ku3m4rJtDYqf7Bbw1IeohVTnZMS531SloiaKY83MobT4/s1600/hs-4th-semester-history-model-question.jpg",
-    "pdf_url": "https://cdn.edutips.in/storage/hs/model-question/sem4/history.pdf",
+    "title": "English Suggestion",
+    "description": "Prose, Poem, Drama, Writing",
+    "cover_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXOQUPvzJSscswmG39yzZt0K_jrLp1HXLa1h81Jy-OKo0SZ1rJxKvua_bAVAggAR00OxT4bIv6y300LkhuXQerBTSdLNTBBZ5oetIT7ERAT4js_ejHxKqudW2kqqUUTvfaLgtHbc5Jy7bY2KQSIrvT2fXhqqHwuorhWkMeytFgtBkhfUnkI5ncQEDtsQ0/s1600/wb-hs-4th-semester-english-suggestion.jpg",
+    "pdf_url": "https://cdn.edutips.in/storage/hs/sem4/edutips-sem4-english.pdf",
     "allow_download": true
   },
   {
