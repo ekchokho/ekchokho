@@ -1,5 +1,12 @@
 [
     {
+    "title": "WBJEE 2026",
+    "description": "Engineering/ Pharmacy Entrance Exam - 12th PCB",
+    "image_url": "https://cdnbbsr.s3waas.gov.in/s3d2a27e83d429f0dcae6b937cf440aeb1/uploads/2022/02/2022021879.jpg",
+    "apply_link": "https://www.edutips.in/page/wbjee/",
+    "last_date": "2026-05-04"
+  },
+    {
     "title": "NEET 2026",
     "description": " Medical Entrance Exam - 12th PCB",
     "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Official_Seal_of_AIIMS_Jodhpur.png",
@@ -12,13 +19,5 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXNo6mOEy-uop8MM7JWqyYV9ktI5dQrkTog&s",
     "apply_link": "https://exams.nta.nic.in/registration-for-nchmjee-2026/",
     "last_date": "2026-03-25"
-  },
-
-    {
-    "title": "Railway Group D 2026",
-    "description": "Madhyamik Pass, (CEN) No. 09/2025",
-    "image_url": "https://www.rrbapply.gov.in/assets/images/logo.png",
-    "apply_link": "https://www.edutips.in/railway-group-d-recruitment-2026/",
-    "last_date": "2026-03-09"
   }
 ]
