@@ -1,16 +1,36 @@
-[
+[{
+    "title": "CRPF 2026",
+    "description": "Tradesman Constable Recruitment 2026",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CRPF_Logo.svg/1920px-CRPF_Logo.svg.png",
+    "apply_link": "https://www.edutips.in/crpf-tradesman-recruitment-2026/",
+    "last_date": "2026-05-19"
+  },
   {
-    "title": "SSC MTS Recruitment 2025",
-    "description": "Apply for Multi Tasking Staff and Havaldar Posts",
-    "last_date": "2025-07-25",
-    "apply_link": "https://ssc.nic.in",
+    "title": "SSC Selection Post 2026",
+    "description": "Phase XIV Recruitment (10th, 12th, Graduate)",
+    "last_date": "2026-05-04",
+    "apply_link": "https://www.edutips.in/ssc-selection-post-phase-xiv-2026/",
     "image_url": "https://www.edutips.in/fonts/icon/ssc.png"
   },
   {
-    "title": "WBPSC Clerkship Notification",
-    "description": "West Bengal PSC Clerkship Vacancy - Apply Now",
-    "last_date": "2025-08-10",
-    "apply_link": "https://wbpsc.gov.in",
+    "title": "WBPSC Miscellaneous",
+    "description": "West Bengal PSC Vacancy",
+    "last_date": "2026-05-20",
+    "apply_link": "https://www.edutips.in/wbpsc-miscellaneous-recruitment-2026/",
     "image_url": "https://www.edutips.in/fonts/icon/wbpsc.png"
+  },
+  {
+    "title": "RBI Recruitment 2026",
+    "description": "Junior Engineer Posts",
+    "last_date": "2026-05-07",
+    "apply_link": "https://www.edutips.in/rbi-junior-engineer-recruitment-2026/",
+    "image_url": "https://www.edutips.in/fonts/icon/rbi.png"
+  },
+  {
+    "title": "NTPC Recruitment 2026",
+    "description": "Assistant Executive (Operations)",
+    "last_date": "2025-05-07",
+    "apply_link": "https://www.edutips.in/ntpc-recruitment-2026/",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BxgluN6kIDxt9MsSOCWPsLfXyzG01CXI_Q&s"
   }
 ]
