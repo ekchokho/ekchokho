@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gobinda Gorai
+# 👋 Hi, I'm Ekchokho
 
 ### Founder & CEO at EduTips India Pvt. Ltd.
 
