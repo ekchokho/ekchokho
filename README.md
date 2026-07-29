@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ekchokho
 
-### Founder & CEO at EduTips India Pvt. Ltd.
+### Founder & CEO at EduTips
 
 Building AI-powered products that help students make better education and career decisions.
 
