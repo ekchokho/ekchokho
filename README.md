@@ -8,8 +8,7 @@ Building AI-powered products that help students make better education and career
 
 ## 🚀 About Me
 
-- 🏢 Founder & CEO of **EduTips India Private Limited**
-- 🎓 B.Tech 💙 Passionate about AI, Education, Startups & Technology
+- 💙 Passionate about AI, Education, Startups & Technology
 - 🌱 Currently building AI-powered solutions for students across India
 - 💡 Interested in Product Development, Web Technologies, Automation & EdTech
 - 🚀 Love turning ideas into scalable digital products
